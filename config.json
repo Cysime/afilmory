@@ -1,0 +1,15 @@
+{
+  "name": "Yukiakari's Afilmory",
+  "title": "Yukiakari's Afilmory",
+  "description": "Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.",
+  "url": "https://photo.furry.pt/",
+  "accentColor": "#007bff",
+  "author": {
+    "name": "Yukiakari",
+    "url": "https://yukiakari.net/",
+    "avatar": "https://yukiakari.net/img/yukiakari_hu14527717866839894721.jpg"
+  },
+    "extra": {
+    "accessRepo": true
+  }
+}
