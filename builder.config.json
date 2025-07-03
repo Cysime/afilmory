@@ -8,7 +8,7 @@
     "bucket": "yukiakari-gallery",
     "region": "auto",
     "endpoint": "https://9f5439e413d4e99ac4e0c0ee79a97635.r2.cloudflarestorage.com",
-    "prefix": "photos/",
+    "prefix": "",
     "customDomain": "https://bucket.gallery.furry.pt"
   }
 }
